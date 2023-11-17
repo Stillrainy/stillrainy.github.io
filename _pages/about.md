@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! Try to dig me out at here."
+title: "Welcome! Try to dig me out at here"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
