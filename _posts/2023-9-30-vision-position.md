@@ -14,7 +14,7 @@ In scenarios where access to robot kinematic and camera parameters data is not a
 ![dVRK Data](/images/C_M1_T1_4_L.jpg)
 
 ## Keypoints Tracking and Usage in GNN
-![Keypoints](../images/keypoints.png)
+![Keypoints](/images/keypoints.png)
 ![gnn](/images/gnn-nodes.png)
 
 ## Cropped and Enhanced Images for Contact Deteaction
