@@ -21,4 +21,4 @@ In scenarios where access to robot kinematic and camera parameters data is not a
 ![cropper](/images/crop-concat.png)
 
 ## 2D Keypoints Coordinates -> 3D Positions of the End-effector
-![cropper](/images/M2_R_V2_2.png)
+![result](/images/M2_R_V2_2.png)
