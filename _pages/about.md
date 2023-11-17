@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Welcome! Try to dig me out at here"
+title: "Welcome to my blog!"
+show_title: false
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Bio
+Short Bio
 ======
 I am **Shuyuan Yang**, and a second-year Master's student in Computer Science at Case Western Reserve University. My research interests are applying machine learning or deep learning to computer vision or robot related area. Currently, I am seeking a **Ph.D.** position in *Computer Science* or *Electrical Engineering*. 
 
