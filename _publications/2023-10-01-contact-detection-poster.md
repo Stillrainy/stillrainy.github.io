@@ -8,7 +8,7 @@ venue: 'IROS'
 
 ---
 
-Poster in IROS 2023. 
+Poster presented at 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023). 
 
 [Download poster here](/files/IROS_Poster_2023.pdf)
 
