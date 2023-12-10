@@ -18,7 +18,7 @@ Education
 * M.S. in Computer Science, Case Western Reserve University
  *Aug. 2022 - May. 2024* (expected)
 * Exchange Student  in Computer Science, University of West Florida
- *Aug. 2019 - Jul. 2020*
+ *Aug. 2019 - May. 2020*
 * B.Eng. in Software Engineering, Taiyuan University of Technology
  *Sep. 2016 - Jul. 2020*
 
