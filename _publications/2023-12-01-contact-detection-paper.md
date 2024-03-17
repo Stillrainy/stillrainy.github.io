@@ -8,6 +8,6 @@ venue: 'JMRR'
 
 ---
 
-Special Issue Paper submitted to Journal of Medical Robotics Research (ISMR 2024 Presentation Track). 
+Special Issue Paper accepted by Journal of Medical Robotics Research (ISMR 2024 Presentation Track). 
 
-Under reviewing, not available yet. Hope to see it at the 2024 International Symposium on Medical Robotics (ISMR). 
+Online copy not available yet. See you soon at the 2024 International Symposium on Medical Robotics (ISMR). 
